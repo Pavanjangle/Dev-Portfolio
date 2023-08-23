@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import { Fade } from "react-reveal";
+import { Fade } from 'react-reveal';
 import "./GitRepoCard.scss";
 
 const GitRepoCard = ({userName, repoName}) => {

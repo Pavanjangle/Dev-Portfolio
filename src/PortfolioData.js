@@ -3,22 +3,22 @@ import emoji from "react-easy-emoji";
 
 // Name that will appear on the splash Screen
 const splashScreenName = {
-    name : "Rhythm"
+    name : "Pavan"
 }
 
 //Logo name in the navigation bar
 const navBarIcon = {
-    name : "Rhythm"
+    name : "Pavan"
 }
 
 const introduction = {
-    firstName : "Rhythm" ,
+    firstName : "Pavan" ,
     
-    lastName : "Varshney" ,
+    lastName : "Jangale" ,
     
     introductionText : "A passionate Software Developer. I have built projects that showcase my skills. I have build applications with JavaScript, ReactJS, NodeJS, SpringBoot and some other cool libraries and frameworks. I can design efficient algorithms which can help in improving the performance of the application." ,
 
-    resumeLink : "https://drive.google.com/file/d/163-8rfxj4b4wcB1kLY8wOi2C8oBfVpLl/view?usp=share_link",
+    resumeLink : "https://drive.google.com/file/d/1NpaILgvQh2SnBdm95JF0fRva8zhYbU6V/view?usp=drivesdk",
 
     resumeButtonText : "SEE MY RESUME",
 
@@ -28,25 +28,25 @@ const introduction = {
 const profilesToShow = [
     {
         name : "github",
-        link : "https://github.com/rhythm-design",
+        link : "https://github.com/Pavanjangle",
         fontAwesomeIcon : "fa fa-github",
     },
 
     {
         name : "leetcode",
-        link : "https://leetcode.com/rhythm_varshney/",
+        link : "https://leetcode.com/pavan Jangale/",
         fontAwesomeIcon : "fas fa-code",
     },
 
     {
         name : "linkedin",
-        link : "https://www.linkedin.com/in/rhythmvarshney/",
+        link : "https://www.linkedin.com/in/pavan-jangale/",
         fontAwesomeIcon : "fab fa-linkedin-in"
     },
     
     {
         name : "mail",
-        link : "mailto:rhythmrv3@gmail.com",
+        link : "mailto:pavan.jangale91@gmail.com",
         fontAwesomeIcon : "fas fa-envelope"
     }
 ]
@@ -79,10 +79,10 @@ const skillsToShow = {
             fontAwesomeIcon : "fab fa-sass"
         },
 
-        {
-            name : "Java",
-            fontAwesomeIcon : "fab fa-java"
-        },
+        // {
+        //     name : "JavaScript",
+        //     fontAwesomeIcon : "fab fa-javascript"
+        // },
 
         {
             name : "DSA",
@@ -141,17 +141,17 @@ const proficiencyData = {
 
         {
             name : "Backend",
-            percent : "70%"
+            percent : "55%"
         },
 
         {
-            name : "Java and SpringBoot",
+            name : "JavaScript and ReactJs",
             percent : "80%"
         },
 
         {
             name : "Programming and DSA",
-            percent : "85%"
+            percent : "65%"
         }
     ]
 }
@@ -171,16 +171,16 @@ const proficiencyData = {
 */
 const projectsGithubRepos = {
     heading : "What I have made",
-    username : "rhythm-design",
+    username : "Pavanjangle",
     repoNames : [
-        "navigatethebot",
-        "keepnotes",
+        "Crypto_Web_App_Project",
+        "Live_Streaming_Recording_App",
         "rhythm-portfolio",
-        "Bucket-List",
-        "SecretKeeper",
-        "Leetcode-Solutions-with-Explanation"
+        "Google_OAuth_Project",
+        "Quiz-App-Project",
+        "Shopping_lane_Project"
     ],
-    githubRepositoriesLink : "https://github.com/rhythm-design?tab=repositories",
+    githubRepositoriesLink : "https://github.com/Pavanjangle?tab=repositories",
     projectsButtonText : "More Projects"
 }
 
@@ -197,33 +197,33 @@ const achievementsAndCertifications = {
     
     achievementsOrCertificateDetails : [
         {
-            title: "Leetcode Testcases",
-            description: "Added 4 missing test cases to Leetcode",
-            imageAlt: "Leetcode png",
-            imageSrc: "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png",
+            title: "Web Dev Fundamentals Certification",
+            description: "Earned a certification in Web Development Fundamentals, showcasing proficiency in essential web technologies including HTML, CSS, and JavaScript.",
+            imageAlt: "",
+            imageSrc: "https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png",
             hasLink: true,
-            proofLink: "https://docs.google.com/document/d/1lbeHFpQlfQfhVB18PnrFbJ1cL-OJ6yTYZ1XlJ4kzP0E/edit",
-            achievementButtonText: "Leetcode TestCases"
+            proofLink: "",
+            achievementButtonText: "Certificate"
         },
 
         {
-            title: "AWS EC2 SSH key-pair",
-            description: "Corrected AWS command allowing millions users of AWS to seamlessly create key-pairs and SSH into their EC2 instances through CLI.",
-            imageAlt: "AWS png",
-            imageSrc: "https://hackfest.ca/images/partenaires/aws.png",
+            title: "ReactJS Certification",
+            description: "Attained certification in React.js, validating advanced skills in building dynamic and efficient user interfaces. Demonstrated mastery in leveraging React.js libraries and concepts to create interactive and performant web applications.",
+            imageAlt: "Reactjs png",
+            imageSrc: "https://edyodalms.s3.amazonaws.com/media/thumbnails/ReactJS1_jTHHel5.png",
             hasLink: true,
-            proofLink: "https://github.com/awsdocs/amazon-ec2-user-guide/pull/144",
-            achievementButtonText: "AWS Github Merge"
+            proofLink: "",
+            achievementButtonText: "Certificate"
         },
 
         {
-            title: "LeetCode Solutions",
-            description: "Contributed to Leetcode solutions which helped many users to understand concept and intuition in more accurate way.",
-            imageAlt: "Leetcode png",
-            imageSrc: "https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png",
+            title: "Professional Communication Certification",
+            description: "Achieved certification in job-focused professional communication, indicating proficiency in effective workplace communication strategies. Demonstrated skills in conveying ideas, collaborating with teams, and presenting information clearly and professionally.",
+            imageAlt: " png",
+            imageSrc: "https://edyodalms.s3.amazonaws.com/media/thumbnails/Classroom_Communication_LOGO-1.png",
             hasLink: true,
-            proofLink: "https://docs.google.com/document/d/10vYuOmOhiQVOh86IE_kXWbeIxw1_4-vEJoV8QcuOzWI/edit",
-            achievementButtonText: "Leetcode Solutions"
+            proofLink: "",
+            achievementButtonText: "Certificate"
         },
 
         {
@@ -232,8 +232,8 @@ const achievementsAndCertifications = {
             imageAlt: "Leetcode png",
             imageSrc: "https://avatars.githubusercontent.com/u/11960354?v=4",
             hasLink: false,
-            proofLink: "https://docs.google.com/document/d/1lbeHFpQlfQfhVB18PnrFbJ1cL-OJ6yTYZ1XlJ4kzP0E/edit",
-            achievementButtonText: "Leetcode Solutions"
+            proofLink: "",
+            achievementButtonText: "Certificate"
         }
     ]
 }
@@ -245,7 +245,7 @@ const achievementsAndCertifications = {
 const contactMe = {
     heading : "Reach Out to me!",
     subHeading : "DISCUSS INNOVATIVE IDEAS TO BUILD OR HIRE ME FOR BUILDING IMPACTFUL TECH SOLUTION",
-    bioText : "Searching for SDE jobs | Proactive Software Engineer | Full Stack Developer | Leetcode 450+ | Delivering High-Quality Code",
+    bioText : "Searching for SDE jobs | Proactive Software Engineer | Full Stack Developer| Delivering High-Quality Code",
     location : "India",
     openForOpportunities : "YES",
     profilePicture : require("./assets/images/ProfilePicture.jpg")   //You can change your picture by adding your photo in assets/images folder
