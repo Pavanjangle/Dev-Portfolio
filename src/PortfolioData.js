@@ -80,8 +80,8 @@ const skillsToShow = {
         },
 
         // {
-        //     name : "JavaScript",
-        //     fontAwesomeIcon : "fab fa-javascript"
+        //     name : "Uipath",
+        //     fontAwesomeIcon : "fab fa-Uipath"
         // },
 
         {
