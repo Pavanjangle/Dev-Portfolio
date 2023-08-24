@@ -4,7 +4,7 @@
   <p align="center">
     An awesome customizable portfolio for developers 
     <br />
-    <a href="https://rhythmvarshney.me/"><strong>« View Demo »</strong></a>
+    <a href="https://pavan-j-portfolio.netlify.app/"><strong>« View Demo »</strong></a>
     <br />
   </p>
 </div>
