@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Portfolio
 
-![github-portfolio-gif](https://github.com/rhythm-design/DevProfolio/assets/56234578/7b0ccc72-3452-4bd2-8b75-daab3fae087b)
+![github-portfolio-gif]()
 
 This the fully customizable portfolio made exclusively for developers. Through this, a developer can either modify the portfolio data to make it for them or can also use it to learn how to create a portfolio.
 
@@ -106,7 +106,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 [HTML]: https://img.shields.io/badge/HTML-FF2D20?style=for-the-badge&logo=HTML&logoColor=white
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [LinkedIN]: https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=LinkedIN&logoColor=white
-[Linkedin-url]:https://www.linkedin.com/in/rhythmvarshney/
+[Linkedin-url]:linkedin.com/in/pavan-jangale
 [Leetcode]: https://img.shields.io/badge/Leetcode-20232A?style=for-the-badge&logo=Leetcode&logoColor=white
-[LeetCode-url]:https://leetcode.com/rhythm_varshney/
+[LeetCode-url]:https://leetcode.com//
 
